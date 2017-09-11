@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicUI</string>
+    <string name="Meatballs_Text">Meatballs</string>
+    <string name="Potatoes_Text">Potatoes</string>
+    <string name="Cat_Food_Text">Cat food</string>
+    <string name="Dog_Food_Text">Dog food</string>
+    <string name="Select_Text">Select</string>
+</resources>
