@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MenuNotifications</string>
+    <string name="hint">Select notification from menu!</string>
+</resources>
